@@ -27,6 +27,6 @@ We've been learning about useState and useEffect and to be frank, it just wasn't
 https://user-images.githubusercontent.com/21699614/159123915-398b49b6-fe94-49ad-a815-a2e403ac04b5.mov
 
 
-## :nut_and_bolt: Resources 
+## Resources 
 - [React Tutorial Youtube Video] (https://www.youtube.com/watch?v=g0zalmyeu0c&t=1644s)
 
