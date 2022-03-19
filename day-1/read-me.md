@@ -1,4 +1,5 @@
 # DAY 1/100 Of JavaScript/React Code Challenge
+[Tweet for Day 1](https://twitter.com/artificiallyval/status/1504697072079060993)
 
 ## Day 1 - React - useState + useEffect
 
