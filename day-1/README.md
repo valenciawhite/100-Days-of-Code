@@ -2,7 +2,7 @@
 
 ## Day 1 - React - useState + useEffect
 
-## Prelude
+## :sparkles: Prelude
 
 If you made it to this repository, then you probably know a little bit about me, if so, then you know that I'm in a challenging 15-week full-stack web development program at Flatiron School. After having a hard time adjusting to the fast past curriculum and the influx of new information in such a short period, I, unfortunately, had to repeat Phase 1 of my program. To clarify, at Flatiron School there are 4 phases a budding developer has to go through and successfully pass to graduate.
 
@@ -14,15 +14,19 @@ Now that I'm officially in Phase 2, woot woot! I've decided to try a different a
 
 For Phase 2, I've decided to not only focus on the modules provided by Flatiron but also supplement my reading by building personal projects alongside the course material.
 
-## Tea Time Was Born
+## :tea: Tea Time Was Born
 
 To have something to show for at the end of this 100 days, I decided rather than scatter my energy into 100 vastly different topics, it would be best to channel that energy into one large project. Now how sternly I will stick to this...that's debatable. As I am as free-flowing as a blade of grass in a hurricane. But for now, that is where my mind is. And with that logic, I decided to build a mapping application for all my tea lovers out there, as finding speciality tea shops almost impossible. grrr...not for much longer my matcha-babes!
 
-## Enter Phase 2 React.js Hooks
+## :fishing_pole_and_fish: Enter Phase 2 React.js Hooks
 
-We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings my school provided and a couple of youtube videos later. I was able to implement both React Hooks in Tea Time.
+We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings my school provided and a couple of youtube videos later. I was able to implement both React Hooks in Tea Time. And once I got it, I was so excited! This is the joy that keeps me learning through material no matter how lost I feel. 
 
 
 
 https://user-images.githubusercontent.com/21699614/159123915-398b49b6-fe94-49ad-a815-a2e403ac04b5.mov
+
+
+## Resources 
+- [React Tutorial Youtube Video] (https://www.youtube.com/watch?v=g0zalmyeu0c&t=1644s)
 
