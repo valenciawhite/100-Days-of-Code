@@ -28,5 +28,6 @@ https://user-images.githubusercontent.com/21699614/159123915-398b49b6-fe94-49ad-
 
 
 ## Resources 
+- [Offical React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html)
 - [React Tutorial Youtube Video] (https://www.youtube.com/watch?v=g0zalmyeu0c&t=1644s)
 
