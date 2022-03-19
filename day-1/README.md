@@ -18,7 +18,7 @@ For Phase 2, I've decided to not only focus on the modules provided by Flatiron 
 
 To have something to show for at the end of this 100 days, I decided rather than scatter my energy into 100 vastly different topics, it would be best to channel that energy into one large project. Now how sternly I will stick to this...that's debatable. As I am as free-flowing as a blade of grass in a hurricane. But for now, that is where my mind is. And with that logic, I decided to build a mapping application for all my tea lovers out there, as finding speciality tea shops almost impossible. grrr...not for much longer my matcha-babes!
 
-## Enter Phase 2 React.js Confusion
+## Enter Phase 2 React.js Hooks
 
 We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings my school provided and a couple of youtube videos later. I was able to implement both React Hooks in Tea Time.
 
