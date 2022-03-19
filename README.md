@@ -4,7 +4,7 @@
 - React 
 - JavaScript
 - HTML/CSS
-- Git 
+ 
 
 ## 👩🏽‍💻 The Days  
 - [Day One](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-1/read-me.md) - Focused on React Hooks (useState + useEffect).
