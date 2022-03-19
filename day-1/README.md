@@ -22,7 +22,9 @@ Grrr...not for much longer my matcha-babes! (≖︿≖✿)
 
 ## :sparkles: Enter Phase 2 React.js Hooks
 
-We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings and labs my school provided and a couple of youtube videos later, I was able to implement both React Hooks in Tea Time. AND I AM IN LOVE!! It's so simple how I've implemented the two methods, but this gives me great insight in how they will come in handy later on. This is the joy that keeps me learning through material no matter how lost I feel at first. 
+We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings and labs my school provided and a couple of youtube videos later, I was able to implement both React Hooks in Tea Time. AND I AM IN LOVE!! It's so simple how I've implemented the two methods, but this gives me great insight in how they will come in handy later on.  
+
+This is the joy that keeps me learning through material no matter how lost I feel at first. 
 
 
 
