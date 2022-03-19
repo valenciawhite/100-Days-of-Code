@@ -21,3 +21,8 @@ To have something to show for at the end of this 100 days, I decided rather than
 ## Enter Phase 2 React.js Confusion
 
 We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings my school provided and a couple of youtube videos later. I was able to implement both React Hooks in Tea Time.
+
+
+
+https://user-images.githubusercontent.com/21699614/159123915-398b49b6-fe94-49ad-a815-a2e403ac04b5.mov
+
