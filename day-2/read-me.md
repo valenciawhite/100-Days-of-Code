@@ -18,13 +18,15 @@ That would be an answer I wouldn't know until now, my Day 2 Part II. After finag
 
 What was missing this whole time was my role to play in my code firing off correctly. The whole time I was clicking the "Eyes on me" button my first condition was going off, a "Good!" in the console, I didn't think to click off the element to make the second condition of onBlur go off, and once I did, the glorious console log of "Hey!, Eyes on me!" graced my screen. I had done it after all! I was ready to express my displeasure in not being able to figure these events out, but now I have a success story to share!
 
-Moral of the story: Click off the element for your onBlur to fire 😅
+### Moral of the story: Click off the element for your onBlur to fire off 😅
 
-https://user-images.githubusercontent.com/21699614/159123915-398b49b6-fe94-49ad-a815-a2e403ac04b5.mov
+
+https://user-images.githubusercontent.com/21699614/159194342-0ecd81ae-c6ad-437f-b9ca-4aa2aa25bef7.mov
+
 
 ## ☆.｡.:* DEV.to Community Surprises .｡.:*☆
 
-Over the past few days, I've been beefing up my tech community profiles and reaching out in the community. My goal has been to genuinely express myself whenever I am moved by certain content and cultivate active communication whenever I can. In such a short time frame, already I'm experiencing great feedback from my efforts. I even got a mention in a blog post by a senior software engineer after he felt inspired to write after reading my comment to ANOTHER community member.
+Over the past few days, I've been beefing up my tech community profiles and reaching out in the community. My goal has been to genuinely express myself whenever I am moved by certain content and cultivate active communication whenever I can. In such a short time frame, already I'm experiencing great feedback from my efforts. I even got a mention in a blog post by a senior software engineer after he felt inspired to write after reading my comment to ANOTHER community member. [Read Here!](https://dev.to/jeremyf/regarding-documentation-a-letter-to-my-earlier-selfs-3jd4)
 
 From DEV to Twitter, the tech communities I've come across have been nothing short of welcoming and knowledgeable to those who show genuine interest. This is the impact I aspire to provide for others, making tech inclusive and digestible for all.
 
