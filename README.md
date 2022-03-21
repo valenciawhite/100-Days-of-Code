@@ -7,7 +7,8 @@
  
 
 ## 👩🏽‍💻 The Days  
-- [Day One](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-1/read-me.md) - Focused on React Hooks (useState + useEffect).
+- [Day 1](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-1/read-me.md) - Focused on React Hooks (useState + useEffect).
+- [Day 2](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-2/read-me.md) - Focused on React Event Handlers (onChange + onFocus + onBlur).
 
 ## :mailbox_with_mail: Let's Connect
 - Dev.to - https://dev.to/valenciawhite
