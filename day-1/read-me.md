@@ -1,9 +1,8 @@
-# DAY 1/100 Of JavaScript/React Code Challenge
-[Tweet for Day 1](https://twitter.com/artificiallyval/status/1504697072079060993)
+# ✨ Day 1/100 - React.js Hooks (useState + useEffect) ✨
+- [Tweet for Day 1](https://twitter.com/artificiallyval/status/1504697072079060993)
 
-## Day 1 - React - useState + useEffect
 
-## :sparkles: Prelude
+##  ☆.｡.:* Prelude .｡.:*☆ 
 
 If you made it to this repository, then you probably know a little bit about me, if so, then you know that I'm in a challenging 15-week full-stack web development program at Flatiron School. After having a hard time adjusting to the fast past curriculum and the influx of new information in such a short period, I, unfortunately, had to repeat Phase 1 of my program. To clarify, at Flatiron School there are 4 phases a budding developer has to go through and successfully pass to graduate.
 
@@ -21,7 +20,7 @@ To have something to show for at the end of this 100 days, I decided rather than
 
 Grrr...not for much longer my matcha-babes! (≖︿≖✿)
 
-## :sparkles: Enter Phase 2 React.js Hooks
+## ☆.｡.:* Enter Phase 2 React.js Hooks .｡.:*☆ 
 
 We've been learning about useState and useEffect and to be frank, it just wasn't clicking like I knew should be. Through the use of the readings and labs my school provided and a couple of youtube videos later, I was able to implement both React Hooks in Tea Time. AND I AM IN LOVE!! It's so simple how I've implemented the two methods, but this gives me great insight in how they will come in handy later on.  
 
