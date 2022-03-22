@@ -1,4 +1,4 @@
-# ✨ Day 3/100 - More React Lectures + Mental Anguish ✨
+# ✨ Day 3/100 - More React Lectures + Mental Anguish + Creative JavaScript Projects✨
 
 - [Tweet for Day 3]()
 
