@@ -10,7 +10,7 @@
 - [Day 1](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-1/read-me.md) - Focused on React Hooks (useState + useEffect).
 - [Day 2](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-2/read-me.md) - Focused on React Event Handlers (onChange + onFocus + onBlur).
 - [Day 3](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-3/read-me.md) - Focused on Mental Wellbeing + Creative JavaScript Projects.
-- [Day 4](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-4/read-me.md) - Focused on Preparing for Phase 2 Coding Challenge 
+- [Day 4](https://github.com/valenciawhite/100-Days-of-Code/blob/main/day-4/read-me.md) - Focused on Preparing for Phase 2 Coding Challenge.
 
 
 ## :mailbox_with_mail: Let's Connect
